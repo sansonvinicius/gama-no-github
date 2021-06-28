@@ -1,0 +1,1 @@
+"Estou gostando muito do curso de Git da Gama Academy até o momento"
